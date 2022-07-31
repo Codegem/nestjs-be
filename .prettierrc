@@ -1,0 +1,8 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "end_of_line": "lf",
+  "indent_style": "tabs",
+  "indent_size": 2,
+  "max_line_length": 80
+}
